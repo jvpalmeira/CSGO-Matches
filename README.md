@@ -1,3 +1,5 @@
+![csgo_image](https://user-images.githubusercontent.com/91806138/149022039-316f4549-fc7a-4896-bc5c-cf3914b48b75.jpg)
+
 # CSGO-Matches
 
 
